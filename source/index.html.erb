@@ -50,7 +50,7 @@ title: Le Wagon Middleman boilerplate
                 <p><%= card[:text]%></p>
               </div>
                 <%= image_tag "#{card[:image_tag]}", class: "card-user avatar avatar-large"%>
-                <%= link_to "", "#", class: "card-link" %>
+                <%= link_to "", "flats/#{card[:owner]}.html", class: "card-link" %>
             </div>
           </div>
           <% end %>
