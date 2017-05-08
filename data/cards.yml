@@ -1,0 +1,15 @@
+- title: Paris
+  image: 'images/card-paris.jpg'
+  desc: Seb's home
+  text: Charming room with patio
+  image_tag: 'images/seb.jpg'
+- title: Brussels
+  image: 'images/card-brussels.jpeg'
+  desc: Anne's home
+  text: ovely house
+  image_tag: 'images/boris.jpg'
+- title: Paris
+  image: 'images/card-london.jpeg'
+  desc: Romain's home
+  text: Nice flat in Piccadilly
+  image_tag: 'images/romain.jpg'
